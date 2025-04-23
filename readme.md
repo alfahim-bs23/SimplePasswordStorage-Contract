@@ -5,4 +5,3 @@
 * Retrieve hashed password by ID
 
 ### Todo
-* Requirements to clear.
